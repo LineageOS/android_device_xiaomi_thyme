@@ -22,6 +22,30 @@
       },
       "revId": "494f66c2f91272ae8a143f33a32dbff15b47fd4c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8e80ffa8_280f687b",
+        "filename": "rootdir/etc/init.device.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2025-02-14T13:30:42Z",
+      "side": 1,
+      "message": "Ack, can be done in a different change",
+      "parentUuid": "c99e4fd2_7a57c12c",
+      "range": {
+        "startLine": 5,
+        "startChar": 2,
+        "endLine": 5,
+        "endChar": 7
+      },
+      "revId": "494f66c2f91272ae8a143f33a32dbff15b47fd4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
